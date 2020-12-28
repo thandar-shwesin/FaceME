@@ -1,5 +1,5 @@
 # FaceME
 android-master-thesis (FACIAL EXPRESSIONS AND HUMAN BIO-SIGNAL IDENTIFICATION ON ANDROID SMARTPHONE),
-android-studio
-Java
+android-studio,
+Java,
 Affectiva SDK
